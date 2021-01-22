@@ -15,3 +15,11 @@ You need python 3 or more and Pygame library in order to run the game
 - Open CMD, and go to specific folder
 - Type Python3 pacman.py
 - Play the game and Enjoy
+
+# Refernces for images:
+REFERNCES FOR PACMAN IN PYGAME:
+- starter code by palash bansal:
+https://gist.github.com/PalashBansal96/0e57d50ef898073150f8533ffe838764
+- Idea of movements by video on youtube:
+(‘sentdex youtube channel’) https://youtu.be/ujOTNg17LjI
+- images : freeico.com, stickpng.org
